@@ -11,6 +11,8 @@
     - Tutorial Run BMP280 on RPi: https://iotstarters.com/configuring-bmp280-sensor-with-raspberry-pi/
     - Github: https://github.com/pimoroni/bmp280-python
   ![2023-12-25-142221_1920x1080_scrot](https://github.com/BuiNgocLong01/BMP280_RPi_Thingspeak/assets/93063745/b0bc2f8e-7f57-44f5-875b-4127ab0fc5cf)
+  - How to use Thingspeak with RPi: https://microdigisoft.com/raspberry-pi-weather-station-using-bmp280-with-thingspeak-com/
+  - Website: https://thingspeak.com/
 
   
 
