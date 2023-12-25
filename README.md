@@ -6,4 +6,9 @@
 - Test on Arduino Uno R3:
   - ![image](https://github.com/BuiNgocLong01/BMP280_RPi_Thingspeak/assets/93063745/9aa612a8-e839-429a-9f1a-c594a4e1e1fa)
   - ![z5007615329911_99beee9018b5889f7ecb144ef3e3f903](https://github.com/BuiNgocLong01/BMP280_RPi_Thingspeak/assets/93063745/3e39fc07-370d-4d26-8786-f940991e32ae)
+  BMP280 - Raspberry Pi
+- Ref:
+    - Tutorial Run BMP280 on RPi: https://iotstarters.com/configuring-bmp280-sensor-with-raspberry-pi/
+    - Github: https://github.com/pimoroni/bmp280-python
+  
 
